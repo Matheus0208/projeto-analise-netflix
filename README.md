@@ -17,6 +17,6 @@ A análise foi estruturada para responder a perguntas de negócio cruciais, tais
 
 O projeto foi inteiramente desenvolvido em **Python**, utilizando o ecossistema clássico de Data Science:
 
-* **Pandas & NumPy:** Para carregamento, limpeza, manipulação e agregação dos dados brutos.
+* **Pandas:** Para carregamento, manipulação e agregação dos dados brutos.
 * **Matplotlib & Seaborn:** Para a construção de gráficos estéticos e visualizações informativas.
 * **Jupyter Notebook / Pycharm:** Ambiente interativo utilizado para o desenvolvimento do passo a passo da análise.
